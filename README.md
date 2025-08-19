@@ -1,4 +1,4 @@
-Un proyecto de machine learning y deep learning para detectar y clasificar estrellas de neutrones tipo pulsares a partir de datos crudos de radiofrecuencia . Este repositorio incluye enfoques de Regresión Logística, Máquinas de Vectores de , Bosques Aleatorios y una Red Neuronal Simple.
+Un proyecto de machine learning y deep learning para detectar y clasificar estrellas de neutrones tipo pulsares a partir de datos crudos de radiofrecuencia . Este repositorio incluye enfoques de Regresión Logística, Máquinas de Vectores de soporte,  Bosques Aleatorios y una Red Neuronal Simple.
 Características
 
     Canal de procesamiento para limpiar y normalizar datos de pulso
